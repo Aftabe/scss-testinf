@@ -1,2 +1,2 @@
-# scss-testinf
+# scss-testing
 CSS PREPROCESOR IN OUR FILE
