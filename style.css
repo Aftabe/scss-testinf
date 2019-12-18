@@ -3,3 +3,13 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
