@@ -5,11 +5,14 @@
 }
 
 body {
-
+background-color: wheat;
 }
 
 h1 {
     text-align: center;
     text-transform: uppercase;
     padding-top: 20px;
+    color: white;
+
+    background-color: goldenrod;
 }
