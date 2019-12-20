@@ -12,7 +12,8 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     padding-top: 20px;
-    color: white;
+    padding-bottom: 20px;
+    color: dark;
 
     background-color: goldenrod;
 }
@@ -25,6 +26,9 @@ h1 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+
+    border-radius: 100px;
+    box-shadow: rgba(0, 0, 0, .7);
 }
 
 h3{
