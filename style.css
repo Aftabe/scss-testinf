@@ -36,3 +36,8 @@ h3{
     margin-top: 17px;
     color: white;
 }
+
+#name {
+    color: black;
+    font-size: 50px;
+}
