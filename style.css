@@ -26,5 +26,6 @@ body {
 
 #header{
     height: 95vh;
-    background-image: url();
+    background-image:linear-gradient(rgba(89, 224, 89, 0.746), rgba(223, 180, 100, 0.774)), url(./img/photo-of-woman-in-black-dress-running-beside-man-2083253.jpg);
+    background-size: cover;
 }
